@@ -1,2 +1,7 @@
-# Checkpoint2-CCPZ
-Checkpoint 2 - Sala: CCPZ - Andrei Henrique Santos RM569440 - Heitor Maxímus Mucha RM571407 - Enrico Marinho de Aquino  RM569338 - Fernando Lobato Rodrigues  RM569377 - Josué Franco Braga  RM569174 - Manoel da Silva Ferreira  RM572045
+# Nome integrantes - CP02 - 1CCPZ-2026
+- Andrei Henrique Santos - RM: 569440
+- Heitor Maxímus Mucha - RM: 571407
+- Enrico Marinho de Aquino - RM: 569338
+- Fernando Lobato Rodrigues - RM: 569377
+- Josué Franco Braga - RM: 569174 
+- Manoel da Silva Ferreira - RM: 572045
