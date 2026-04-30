@@ -1,5 +1,3 @@
-
-
 print("Códigos de origem da carga")
 print("     ----------------")
 print("     |Estado|Imposto|")
